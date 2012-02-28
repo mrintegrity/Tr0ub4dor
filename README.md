@@ -5,7 +5,7 @@ Tr0ub4dor
 What is Tr0ub4dor?
 ------------------
 
-Tr0ub4dor is a web-based password manager written in PHP, thatutilizes MySQL, and MCrypt (for encryption).
+Tr0ub4dor is a web-based password manager written in PHP, that utilizes MySQL, and MCrypt (for encryption).
 
 If you are updating from a previous version, please refer to the __Upgrade__ section of this document!
 
